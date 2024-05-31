@@ -1,0 +1,14 @@
+C:\dev\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.exe
+C:\dev\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.deps.json
+C:\dev\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.runtimeconfig.json
+C:\dev\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.dll
+C:\dev\ThrowExceptions101\bin\Debug\net8.0\ThrowExceptions101.pdb
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfoInputs.cache
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.AssemblyInfo.cs
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.csproj.CoreCompileInputs.cache
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.dll
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\refint\ThrowExceptions101.dll
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.pdb
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ThrowExceptions101.genruntimeconfig.cache
+C:\dev\ThrowExceptions101\obj\Debug\net8.0\ref\ThrowExceptions101.dll
